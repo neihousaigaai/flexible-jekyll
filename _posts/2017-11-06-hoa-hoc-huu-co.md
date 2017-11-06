@@ -31,3 +31,19 @@ tags: [study, chemistry] # add tag
 ## Xeton
 
 ## Axit cacboxylic
+
+## Este - Lipit
+
+## Cacbohidrat
+### Glucozơ
+### Saccarozơ
+### Tinh bột
+### Xenlulozơ
+
+## Amin
+
+## Amino axit
+
+## Protein
+
+## Polime
