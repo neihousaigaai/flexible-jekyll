@@ -37,3 +37,17 @@ tags: [study, chemistry]
 ## Nhóm cacbon
 ### Cacbon - Hợp chất của cacbon
 ### Silic - Hợp chất của silic
+
+## Điện phân
+
+## Kim loại kiềm
+
+## Kim loại kiềm thổ
+
+## Nhôm
+
+## Crom
+
+## Sắt
+
+## Đồng
