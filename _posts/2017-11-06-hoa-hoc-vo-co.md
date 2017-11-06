@@ -7,10 +7,33 @@ img: i-rest.jpg # Add image post (optional)
 tags: [study, chemistry]
 ---
 
-## A
-### A1
-### A2
-## B
-### B1
-### B2
-### B3
+## Nhóm halogen
+### Clo
+### Hidro clorua
+### Axit clohidric
+### Hợp chất có chứa oxi của clo
+### Flo
+### Brom
+### Iot
+
+## Nhóm oxi
+### Oxi
+### Ozon - Hidro peoxit
+### Lưu huỳnh
+### Hidro sunfua
+### Hợp chất có chứa oxi của lưu huỳnh
+
+## Nhóm nitơ
+### Nitơ
+### Amoniac
+### Muối amoni
+### Axit nitric
+### Muối nitrat
+### Photpho
+### Axit photphoric
+### Muối photphat
+### Phân bón hoá học
+
+## Nhóm cacbon
+### Cacbon - Hợp chất của cacbon
+### Silic - Hợp chất của silic
