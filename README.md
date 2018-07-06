@@ -1,4 +1,3 @@
 # My blog
 
-## Coding
-## Music
+About coding
